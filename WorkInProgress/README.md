@@ -5,11 +5,8 @@ However, I am:
 Using Cypress (JavaScript Framework) automation testing for Tripwire, Inc.'s transition to SaaS platform.  
 
 
-And using GraphQL alongside to call specific services for tests.\f
-
-
-
-Learning penetration testing and Security+\
+And using GraphQL alongside to call specific services for tests.\
+Learning penetration testing and Security+
 
 
 
