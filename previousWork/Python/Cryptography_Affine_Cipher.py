@@ -16,6 +16,7 @@ def alphaToNum (al):
 s = input() #input string
 s = s.replace(" ", "")
 s = list(s) #separated into a list
+print (s)
 
 tempList = []
 for a in range (2, 100):
